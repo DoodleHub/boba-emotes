@@ -23,6 +23,14 @@ const Navbar = () => {
             Contact Us
           </Link>
         </li>
+        <li>
+          <Link
+            to="/contact-us"
+            className="bg-pink-400 text-white py-2 px-4 rounded-lg hover:bg-pink-500 transition"
+          >
+            Privacy
+          </Link>
+        </li>
       </ul>
     </nav>
   );

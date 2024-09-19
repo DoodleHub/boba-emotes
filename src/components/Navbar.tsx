@@ -25,10 +25,10 @@ const Navbar = () => {
         </li>
         <li>
           <Link
-            to="/contact-us"
+            to="/privacy-policy"
             className="bg-pink-400 text-white py-2 px-4 rounded-lg hover:bg-pink-500 transition"
           >
-            Privacy
+            Privacy Policy
           </Link>
         </li>
       </ul>

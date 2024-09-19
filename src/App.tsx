@@ -4,6 +4,7 @@ import About from './components/About';
 import ContactUs from './components/ContactUs';
 import Navbar from './components/Navbar';
 import Home from './components/Home';
+import Privacy from './components/Privacy';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/contact-us" element={<ContactUs />} />
+            <Route path="/privacy-policy" element={<Privacy />} />
           </Routes>
         </div>
       </div>

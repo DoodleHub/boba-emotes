@@ -2,7 +2,7 @@ const Home = () => {
   return (
     <div className="flex justify-center">
       <div className="flex flex-col gap-8 w-1/2 items-center">
-        <p className="font-bold">
+        <p className="text-lg font-medium">
           Introducing BobaEmotes: Express Yourself with Adorable Boba Stickers!
         </p>
         <p>

@@ -4,8 +4,8 @@ const ContactUs = () => {
       <h1 className="text-2xl font-semibold">Contact Us</h1>
       <p>
         Email us at{' '}
-        <a href="mailto:simplymatchabytes@gmail.com" className="text-blue-500">
-          simplymatchabytes@gmail.com
+        <a href="mailto:oddlymadelabs@gmail.com" className="text-blue-500">
+          oddlymadelabs@gmail.com
         </a>
       </p>
     </div>

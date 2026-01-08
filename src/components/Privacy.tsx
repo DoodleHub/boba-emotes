@@ -76,8 +76,8 @@ const Privacy = () => {
       <p>
         If you have any questions or suggestions about the Terms and Conditions,
         please do not hesitate to contact the Service Provider at{' '}
-        <a href="mailto:simplymatchabytes@gmail.com" className="text-blue-500">
-          simplymatchebytes@gmail.com
+        <a href="mailto:oddlymadelabs@gmail.com" className="text-blue-500">
+          oddlymadelabs@gmail.com
         </a>
         .
       </p>
